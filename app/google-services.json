@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "733608412342",
+    "firebase_url": "https://chatappexecomspringworkshop.firebaseio.com",
+    "project_id": "chatappexecomspringworkshop",
+    "storage_bucket": "chatappexecomspringworkshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733608412342:android:fd20879b566ad822",
+        "android_client_info": {
+          "package_name": "eu.company.perla.chatappexecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733608412342-uhq27eshu65egp0mcqct8muv3t2qh6hr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eu.company.perla.chatappexecom",
+            "certificate_hash": "4171698e731d367942f917130eefd7c34860a1ed"
+          }
+        },
+        {
+          "client_id": "733608412342-mb0v48rfu4v1pp01uu6tq196snjkllo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuVHPj_ChIZwVshvYVbM0gfgkABobSd9Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733608412342-mb0v48rfu4v1pp01uu6tq196snjkllo4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
